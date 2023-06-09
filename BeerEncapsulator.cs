@@ -86,18 +86,5 @@ class BeerEncapsulator
         b.ProduceEncapsulatedBeerBottles(Convert.ToInt32(BottlesToEncapsulate));
 
         Console.WriteLine("Amount produced: " + b._producedBottles);
-        /*Console.Clear();
-        Console.WriteLine("Welcome to Encapsulator!");
-        var val = Console.ReadKey();
-        if(val.Key = ConsoleKey.DownArrow){
-
-        }
-        else if(val.Key = ConsoleKey.UpArrow){
-
-        } 
-        else if(val.Key = ConsoleKey.Enter){
-
-        }
-        Console.ReadLine();*/
     }
 }
