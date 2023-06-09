@@ -1,0 +1,15 @@
+C:\Informatique\CSharp\wildschool\encapsulation\obj\Debug\net7.0\encapsulation.csproj.AssemblyReference.cache
+C:\Informatique\CSharp\wildschool\encapsulation\obj\Debug\net7.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informatique\CSharp\wildschool\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfoInputs.cache
+C:\Informatique\CSharp\wildschool\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfo.cs
+C:\Informatique\CSharp\wildschool\encapsulation\obj\Debug\net7.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Informatique\CSharp\wildschool\encapsulation\bin\Debug\net7.0\encapsulation.exe
+C:\Informatique\CSharp\wildschool\encapsulation\bin\Debug\net7.0\encapsulation.deps.json
+C:\Informatique\CSharp\wildschool\encapsulation\bin\Debug\net7.0\encapsulation.runtimeconfig.json
+C:\Informatique\CSharp\wildschool\encapsulation\bin\Debug\net7.0\encapsulation.dll
+C:\Informatique\CSharp\wildschool\encapsulation\bin\Debug\net7.0\encapsulation.pdb
+C:\Informatique\CSharp\wildschool\encapsulation\obj\Debug\net7.0\encapsulation.dll
+C:\Informatique\CSharp\wildschool\encapsulation\obj\Debug\net7.0\refint\encapsulation.dll
+C:\Informatique\CSharp\wildschool\encapsulation\obj\Debug\net7.0\encapsulation.pdb
+C:\Informatique\CSharp\wildschool\encapsulation\obj\Debug\net7.0\encapsulation.genruntimeconfig.cache
+C:\Informatique\CSharp\wildschool\encapsulation\obj\Debug\net7.0\ref\encapsulation.dll
